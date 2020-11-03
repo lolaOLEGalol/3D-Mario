@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Prefabs\player.cs" />
     <Compile Include="Assets\Prefabs\playerSpawn.cs" />
+    <Compile Include="Assets\Scripts\britch.cs" />
     <Compile Include="Assets\Scripts\loadScene.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/game/юнити проекты/2D/mario3D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
